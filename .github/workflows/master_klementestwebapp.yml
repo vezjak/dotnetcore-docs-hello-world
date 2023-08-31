@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'klementestwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E00A108F70C04CD7B5752886E32DA84D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0D1E8CB9954401E815D37B1D011F2F4 }}
           package: .
